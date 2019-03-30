@@ -1,5 +1,8 @@
 package com.pay.singleton.resolve;
 
+/**
+ * 解决 反射破坏单例
+ */
 public class ResolveReflectSingleton {
 
     private ResolveReflectSingleton(){
