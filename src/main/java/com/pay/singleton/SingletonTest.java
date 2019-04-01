@@ -1,4 +1,4 @@
-package com.pay;
+package com.pay.singleton;
 
 import com.pay.singleton.lazy.LazySingleton_v2;
 import com.pay.singleton.lazy.LazySingleton_v3;
